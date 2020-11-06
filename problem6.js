@@ -2,19 +2,19 @@ let array= [[['firstName', 'Vasanth'], ['lastName', 'Raja'], ['age', 24], ['role
 
 
 
-function transformEmployeeData(arr) {
-    let transformEmployeeList=[];
+function transformGeekData(arr) {
+    let transformGeekList=[];
     arr.forEach(item => {
         let obj={};
         item.forEach(element=>{
            obj[element[0]]=element[1];
         });
-        transformEmployeeList.push(obj);
+        transformGeekList.push(obj);
      } );
  
 
 
 
  
- return transformEmployeeList;
-} console.log(transformEmployeeData(array));
+ return transformGeekList;
+} console.log(transformGeekData(array));
