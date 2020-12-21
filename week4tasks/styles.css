@@ -1,0 +1,94 @@
+* {
+  margin: 0px 30px;
+}
+
+body {
+  box-sizing: border-box;
+}
+
+.header-class {
+  display: block;
+  text-align: center;
+  position: relative;
+  background-color: #7e7474;
+  height: 55vh;
+}
+
+img {
+  height: 200px;
+  width: 200px;
+  margin-top: 50px;
+  border: dotted 5px yellow;
+  border-radius: 50%;
+}
+
+.name {
+  display: inline-block;
+
+  border-radius: 25px;
+  position: relative;
+  bottom: 45px;
+}
+.fas {
+  border: 1px solid black;
+  border-radius: 50%;
+  color: rgb(218, 146, 13);
+  background-color: black;
+  padding: 10px;
+  font-size: 24px;
+}
+.span {
+  position: relative;
+  margin-left: -20px;
+  font-size: 30px;
+}
+
+.overlap {
+  height: 7.5vh;
+  background-color: whitesmoke;
+  margin: auto;
+  padding: auto;
+}
+
+.s-name {
+  padding: 20px 80px;
+  background-color: yellow;
+  border-radius: 20px;
+  font-size: 30px;
+  font-family: Georgia, "Times New Roman", Times, serif;
+  text-transform: uppercase;
+}
+
+.p-address {
+  padding: 10px;
+  text-align: center;
+}
+
+.profile,
+.skills {
+  padding: 10px;
+}
+
+.work-exp {
+  padding-top: 10px;
+}
+
+.education,
+.projects {
+  padding: 10px;
+}
+
+.column {
+  padding-top: 10px 10px;
+  column-count: 2;
+  column-gap: 20px;
+  column-rule-style: solid;
+  column-rule-width: 1px;
+  column-rule-color: lightgray;
+  column-width: 100px;
+}
+table,
+td {
+  border: 0px;
+  border-collapse: collapse;
+}
