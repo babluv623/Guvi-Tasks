@@ -1,0 +1,44 @@
+/* CSS HEX 
+--black-chocolate: #131200ff;
+--mantis: #78bc61ff;
+--dark-khaki: #c0c781ff;
+--camel: #c59b76ff;
+--salmon: #e9806eff;
+*/
+
+body {
+  background-color: #c0c781ff;
+}
+
+#tokenSection {
+  display: none;
+}
+
+#playlistSection {
+  display: none;
+}
+
+.container {
+  padding: 20px;
+  background-color: #78bc61ff;
+}
+
+/* #albumImage {
+  width: 60px;
+  float: left;
+  margin: 20px;
+}
+
+#trackTitle {
+  font-size: 25px;
+}
+
+#trackArtist {
+  font-size: 15px;
+} */
+
+/* .welcomeText{
+    font-size:2em;
+} */
+
+/* code=AQCqJdAi_Cjrjz87oUVNYRRXxdUlXDLNnzKVLEdA_Yd3VBTj4Qc3ZpSwI_Q57gAKwMehzsbVyJN7LHPJoAe_KsoHdsLQjXFZwhyDgYB8zGjU4Ds0gviXlQAIKbQc71WcziCwk1xMDU3EyI1W9BB5gWhdYPBRYxzP8H9cKKLG853LnUP9xHLD7M_ENlaCcC_PPzhsMdJ9YKaye8IH0f4ru-k3tR5HCLzLkdjEVt6odLtkDcdYVvvYquzCIPZL65GUjeloZTWmCcAt2OzlOonR9qEiMC8hHanGcsVMlfEjsPHELJ7nMZuSOswFhwgfThr3EXJ6jSbhhDzjkuLJ_fDbcLNgWcGg3s0NIzQ5fmph2vL8HL2RaaI2txi7D7sxGuZqF2_3zlCApZtL1eP1H_8HN5f85fSwwA3X75Xy8hNiqRWtxO9Ekm7rKzxWGg */
